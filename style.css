@@ -176,7 +176,7 @@ input[type=search]{
    width: 25px;
    height: 25px;
    position: relative;
-   top: 10px;
+   top: -10px;
    vertical-align: middle;
 }
 
